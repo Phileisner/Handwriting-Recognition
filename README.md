@@ -10,3 +10,5 @@ Collaboration Tools: Google Hangouts
 
 Hardware: Sensortile
 
+Meeting Schedule: Fridays at 7:15
+
