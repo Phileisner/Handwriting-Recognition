@@ -1,5 +1,9 @@
 # Handwriting-Recognition
 
+The goal of our handwriting project is to write a machine learning program that can identify the numbers zero through nine based off the motion of writing, i.e. if you are wearing the sensor tile and write the number 4, the program should identify that you have written a 4.
+
+This repo includes all handwriting data collected by the sensortile and its visualization , as well as a classifier ultilizing machine learning in python. 
+
 Project Proposal Here: https://docs.google.com/document/d/1uFC3MeA1TnZ2Y6pgjRDQlCNpYe9C5WCHjFktimrCc2s/edit
 
 # Slideshow
